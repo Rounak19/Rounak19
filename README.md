@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://surajy001.github.io/)
 - 💬 Ask me about **HTML,CSS,JavaScript, Typescript, NodeJS, Express ,React, NextJS**
 - 📫 How to reach me **rounakpal99@outlook.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yscpTsAitK6HzD00RbBc00a3fcjnODg1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14HBRIDCIFEg7DTbAyCQAWi5Us-V6MW6Q/view?usp=drive_link)
 
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
