@@ -12,7 +12,7 @@
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,nodejs,expressjs,mysql,postgresql,mongodb,react,nextjs,redux,fastapi,git,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,nodejs,expressjs,mysql,postgresql,mongodb,react,nextjs,redux,fastapi,langchain,openai,git,docker" />
   </a>
 <br /><br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rounak19" alt="Rounak19" /></a> </p> <br />
