@@ -12,7 +12,7 @@
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,docker,c,vim" />
   </a>
 <br /><br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rounak19" alt="Rounak19" /></a> </p> <br />
